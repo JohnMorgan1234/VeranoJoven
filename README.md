@@ -4,7 +4,7 @@ Para acceder a los beneficios de verano joven podéis acceder a la siguiente URL
 
 <https://veranojoven.mitma.gob.es/>
 
-**Para registrarse es necesario tener 18 años o más.**
+**Para registrarse es necesario tener 18 años hasta los 30.**
 
 Click en el siguiente enlace que se muestra en la siguiente captura:
 
@@ -23,5 +23,7 @@ Deberéis ingresarlo en la siguiente web ( <http://alsa.es> ) para acceder a los
 Los descuentos se aplican como indica en la siguiente captura:
 
 ![4](4.png)
+
+En renfe aún desconozco personalmente cómo aplicar los descuentos. Cuando lo sepa lo escribiré aquí.
 
 Más info: <https://veranojoven.mitma.gob.es/>
